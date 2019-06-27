@@ -11,4 +11,4 @@ Thank you for using Usemite,Keep it Simple dude
 
 -----------------------------------------
 SCREENSHOT :
-![alt-text]()
+![alt-text](https://raw.githubusercontent.com/PkuLNX/Usemite/master/settings/screenshot.png)
